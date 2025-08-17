@@ -1,0 +1,22 @@
+/* src/styles/Dashboard.css or wherever it's located */
+.dashboard-container {
+  background-image: url("../dashboard-bg.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  min-height: 100vh;
+
+  padding: 2rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.dashboard-overlay {
+  background-color: rgba(0, 0, 0, 0.6); /* Optional overlay */
+  padding: 2rem;
+  border-radius: 12px;
+  width: 100%;
+  max-width: 800px;
+  color: #fff;
+}

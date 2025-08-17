@@ -1,0 +1,42 @@
+.subject-page {
+  padding: 2rem;
+  max-width: 800px;
+  margin: auto;
+  font-family: sans-serif;
+}
+
+h1 {
+  color: #1e3a8a;
+  text-align: center;
+}
+
+section {
+  margin-top: 2rem;
+}
+
+ul {
+  list-style-type: disc;
+  padding-left: 20px;
+}
+
+.quiz-section {
+  margin-top: 2rem;
+}
+
+.quiz-section p {
+  font-weight: bold;
+}
+
+.quiz-section label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+button {
+  margin-top: 10px;
+  padding: 8px 16px;
+  background-color: #1e3a8a;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
